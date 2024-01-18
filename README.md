@@ -1,5 +1,5 @@
 # ¡Bienvenid@s a mi espacio de GitHub!🤗
-## Me llamo Pedro 😎 y me encanta el mundo de la tecnología y de la programación 💻
+## Me llamo Pedro 😎 y me encanta el mundo 🌍 de la tecnología y de la programación 💻
 
 ### ¿Quién soy?
 Un Ingeniero Químico que se metió en un laboratorio y salió como Data Engineer. ¡La alquimia moderna!
