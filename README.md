@@ -1,10 +1,10 @@
 # ¡Bienvenid@s a mi espacio de GitHub!🤗
 ## Me llamo Pedro 😎 y me encanta el mundo 🌍 de la tecnología y de la programación 💻
 
-### ¿Quién soy?
+### ¿Quién soy? 🙋
 Un Ingeniero Químico que se metió en un laboratorio y salió como Data Engineer. ¡La alquimia moderna!
 
-### Habilidades
+### Habilidades 🛠️
 - **Alquimia de Datos.** Transformo el plomo de los datos crudos en oro puro de información.
 - **Reacciones Químicas.** Puedo mezclar dos datasets sin provocar una explosión (la mayoría de las veces).
 - **Destilación de Datos.** Separo los insights útiles del ruido, como un buen vodka.
