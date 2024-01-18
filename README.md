@@ -2,7 +2,7 @@
 ## Me llamo Pedro 😎 y me encanta el mundo 🌍 de la tecnología y de la programación 💻
 
 ### ¿Quién soy? 🙋
-Un Ingeniero Químico que se metió en un laboratorio y salió como Data Engineer. ¡La alquimia moderna!
+Un Ingeniero Químico 🏭 que se metió en un laboratorio y salió como Data Engineer 📊 ¡La alquimia moderna!
 
 ### Habilidades 🛠️
 - **Alquimia de Datos** 🧪 Transformo el plomo de los datos crudos en oro puro de información.
